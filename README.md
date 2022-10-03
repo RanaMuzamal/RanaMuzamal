@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**RanaMuzamal/RanaMuzamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 I'm a developer with experience in building websites for <br>small and medium sized businesses. My experience includes<br> working with many different platforms, as well as designing <br>templates that are compatible across all devices and screens.<br> I'm experienced in HTML and CSS 3, JavaScript, JQuery,ReactJS<br> ,WordPress, Elementor Pro and Content Writing .I take pride in<br> my work and find great satisfaction in knowing that my clients<br> will be happy with the final product
