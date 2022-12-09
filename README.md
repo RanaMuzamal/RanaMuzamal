@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **HTML,CSS,JavaScript and ReactJS**
-
 - 📫 How to reach me **muzamilrana149@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
