@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ranamuz10988803" target="blank"><img src="https://img.shields.io/twitter/follow/ranamuz10988803?logo=twitter&style=for-the-badge" alt="ranamuz10988803" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS Blog Site**
+- 🔭 I’m currently working
 
 - 🌱 I’m currently learning **NextJS**
 
