@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rana Muzamal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranamuzamal&label=Profile%20views&color=0e75b6&style=flat" alt="ranamuzamal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ranamuz10988803" target="blank"><img src="https://img.shields.io/twitter/follow/ranamuz10988803?logo=twitter&style=for-the-badge" alt="ranamuz10988803" /></a> </p>
