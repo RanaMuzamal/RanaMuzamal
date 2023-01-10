@@ -1,11 +1,16 @@
 <h1 class="text-center" style="text-align: center;line-height: 40px;">Hi 👋 This is Rana Muzamal</h1>
 
- Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔 Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!
+
+ Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔: Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!
+
 * 🚀  I'm currently working on [Midhah Lyrics App](http://https://www.midhah.com/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on ReactJS Projects
 * ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)
 
+
+<a href="https://www.github.com/RanaMuzamal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RanaMuzamal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -23,6 +28,8 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 
@@ -32,18 +39,9 @@
 
 <b>My GitHub Stats</b>
 
-<div>
+<div style="flex:row">
     <a href="http://www.github.com/RanaMuzamal"><img src="https://github-readme-stats.vercel.app/api?username=RanaMuzamal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RanaMuzamal's GitHub stats" /></a>
     <a href="http://www.github.com/RanaMuzamal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanaMuzamal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 <a href="http://www.github.com/RanaMuzamal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RanaMuzamal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/RanaMuzamal/Hoobank-React-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RanaMuzamal&repo=Hoobank-React-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RanaMuzamal/color-pexel" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RanaMuzamal&repo=color-pexel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/RanaMuzamal/Covid-19-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RanaMuzamal&repo=Covid-19-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RanaMuzamal/crypto_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RanaMuzamal&repo=crypto_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
