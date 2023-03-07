@@ -3,9 +3,9 @@
 
  Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔: Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!
 
-* 🚀  I'm currently working on [Midhah Lyrics App](http://https://www.midhah.com/)
-* 🧠  I'm expanding my knowledge by working on the MERN Stack Projects.
-* 🤝  I'm open to collaborating on ReactJS Projects
+* 🚀  I'm currently working on ShareYF social media app using MERN Stack.
+* 🧠  I am currently focused on working on full-stack applications using MERN Stack and Next.js
+* 🤝  I'm open to collaborating on ReactJS & NextJS Projects
 * ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)
 
 
