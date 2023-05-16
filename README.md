@@ -3,9 +3,10 @@
 
  Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔: Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!
 
-* 🚀  I'm currently working on ShareYF social media app using MERN Stack.
-* 🧠  I am currently focused on working on full-stack applications using MERN Stack and Next.js
-* 🤝  I'm open to collaborating on ReactJS & NextJS Projects
+* 🚀 Stay updated on the latest trends in MERN Stack and Next.js for innovative full-stack development.
+* 🧠 Dedicated to honing skills in MERN Stack and Next.js, delivering robust applications.
+* 🤝 Seeking collaboration on ReactJS and NextJS projects for impactful solutions.
+* ⭐️ Passionate about creating exceptional user experiences through user-friendly web solutions.
 * ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)
 
 
