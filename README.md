@@ -7,14 +7,13 @@
 * 🧠 Dedicated to honing skills in MERN Stack and Next.js, delivering robust applications.
 * 🤝 Seeking collaboration on ReactJS and NextJS projects for impactful solutions.
 * ⭐️ Passionate about creating exceptional user experiences through user-friendly web solutions.
-* ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)
-
-
-<a href="https://www.github.com/RanaMuzamal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RanaMuzamal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🎯 Goal : To be a better Engineer
+* ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)- 💌 Fun Facts : 
+    - Loves food but can't' cook 🐼 
+    - Overthinks thinking to not to overthink 🙂
+<br>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,10 +32,6 @@ src="https://img.shields.io/github/followers/RanaMuzamal?logo=github&style=for-t
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/RanaMuzamal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rana-muzamal-916b4b183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RanaMuz10988803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 <b>My GitHub Stats</b>
 
 <div style="flex:row">
@@ -45,3 +40,16 @@ src="https://img.shields.io/github/followers/RanaMuzamal?logo=github&style=for-t
 
 </div>
 <a href="http://www.github.com/RanaMuzamal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RanaMuzamal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
+ 
+<a href="https://twitter.com/RanaMuz10988803" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+<a href="https://www.linkedin.com/in/rana-muzamal/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+
+</p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=RanaMuzamal.RanaMuzamal" alt="TidbitsJS :: Visitor's Count" /></p>
