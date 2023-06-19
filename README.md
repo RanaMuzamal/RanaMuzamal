@@ -3,13 +3,13 @@
 
  Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔: Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!
 
-* 🚀 Stay updated on the latest trends in MERN Stack and Next.js for innovative full-stack development.
-* 🧠 Dedicated to honing skills in MERN Stack and Next.js, delivering robust applications.
-* 🤝 Seeking collaboration on ReactJS and NextJS projects for impactful solutions.
-* ⭐️ Passionate about creating exceptional user experiences through user-friendly web solutions.
-* 🎯 Goal : To be a better Engineer
-* ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com)- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
+- 🚀 Stay updated on the latest trends in MERN Stack and Next.js for innovative full-stack development.
+- 🧠 Dedicated to honing skills in MERN Stack and Next.js, delivering robust applications.
+- 🤝 Seeking collaboration on ReactJS and NextJS projects for impactful solutions.
+- ⭐️ Passionate about creating exceptional user experiences through user-friendly web solutions.
+- 🎯 Goal : To be a better Engineer
+- ✉️  You can contact me at [muzamilrana149@gmail.com](mailto:muzamilrana149@gmail.com))
+- 💌 Fun Facts : 
     - Overthinks thinking to not to overthink 🙂
 <br>
 
