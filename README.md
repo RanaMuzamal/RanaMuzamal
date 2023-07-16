@@ -23,7 +23,7 @@ const RanaMuzamal = {
         versionControl: ["Git", "Bitbucket", "GitHub"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Single Page Applications", "Microservices", "Serverless Architecture"],
+    architecture: ["Single Page Applications", "Microservices", "Progressive Web Applications"],
     currentFocus: "MERN stack development",
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
