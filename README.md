@@ -13,7 +13,7 @@ const RanaMuzamal = {
         frontEnd: {
             languages: ["JavaScript", "HTML", "CSS"],
             frameworks: ["React", "Redux", "Next.js"],
-            cssLibraries: ["CSS3", "SASS", "Styled Components", "Bootstrap", "Tailwind CSS", "Chakra UI"]
+            cssLibraries: ["CSS3", "SASS", "Styled Components", "Bootstrap", "Material UI", "Tailwind CSS", "Chakra UI"]
         },
         backEnd: {
             languages: ["JavaScript"],
