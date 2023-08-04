@@ -41,5 +41,8 @@ const RanaMuzamal = {
 <a href="https://www.linkedin.com/in/rana-muzamal/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
+<a href="[https://www.linkedin.com/in/rana-muzamal/](https://www.showwcase.com/ranamuzamil448)" target="_blank">
+<img src="https://img.shields.io/badge/-Showwcase-%233781da" alt="Showwcase"/></a>
+
 </p>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=RanaMuzamal.RanaMuzamal" alt="TidbitsJS :: Visitor's Count" /></p>
