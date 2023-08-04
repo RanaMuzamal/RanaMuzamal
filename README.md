@@ -21,7 +21,6 @@ const RanaMuzamal = {
         },
         databases: ["MongoDB", "MySQL"],
         versionControl: ["Git", "Bitbucket", "GitHub"],
-        misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Single Page Applications", "Microservices", "Progressive Web Applications"],
     currentFocus: "MERN stack development",
