@@ -35,7 +35,7 @@ const RanaMuzamal = {
 
 <p align="center">
  
-<a href="https://twitter.com/RanaMuz10988803" target="_blank">
+<a href="https://twitter.com/rana_muzamil_" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 <a href="https://www.linkedin.com/in/rana-muzamal/" target="_blank">
