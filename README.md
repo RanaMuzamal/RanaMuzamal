@@ -1,11 +1,11 @@
-<p align="center"> <em><b>Hi 👋 This is Rana Muzamal 😊</em>
+<p align="center"> <em><b>Hi 👋 This is Rana Muzamil 😊</em>
 
  <p align="center"> <em><b>Code @Heart ❤️ | Design @Mind 💡 | Innovation @Soul 🤔</b></b><br/> Software engineer navigating the journey of tech to create meaningful solutions. Let's create something special together!</b> 😊</em>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
-const RanaMuzamal = {
+const RanaMuzamil = {
     pronouns: "He" | "Him",
     code: ["JavaScript"],
     askMeAbout: ["full-stack web development", "application development", "application architecture"],
