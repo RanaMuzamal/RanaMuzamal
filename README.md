@@ -13,19 +13,26 @@ const RanaMuzamil = {
         frontEnd: {
             languages: ["JavaScript", "HTML", "CSS"],
             frameworks: ["React", "Redux", "Next.js"],
-            cssLibraries: ["CSS3", "SASS", "Styled Components", "Bootstrap", "Material UI", "Tailwind CSS", "Chakra UI"]
+            cssLibraries: ["CSS3", "SASS", "Styled Components", "Bootstrap", "Material UI", "Tailwind CSS", "Chakra UI"],
         },
         backEnd: {
             languages: ["JavaScript"],
-            frameworks: ["Node.js", "Express.js"]
+            frameworks: ["Node.js", "Express.js"],
+            authenticationAuthorization: ["JWT", "OAuth"],
+            APIs: ["REST"],
+            databases: ["MongoDB", "MySQL"],
         },
-        databases: ["MongoDB", "MySQL"],
         versionControl: ["Git", "Bitbucket", "GitHub"],
     },
+    deployment: {
+        hostingPlatforms: ["Netlify", "Vercel", "Heroku", "Surge"],
+    },
     architecture: ["Single Page Applications", "Microservices", "Progressive Web Applications"],
-    currentFocus: "MERN stack development",
+    currentFocus: ["React.js", "Next.js", "Frontend Performance Optimization"],
+    additionalFocus: "MERN stack development",
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
+
 
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
