@@ -27,7 +27,7 @@ const RanaMuzamil = {
     deployment: {
         hostingPlatforms: ["Netlify", "Vercel", "Heroku", "Surge"],
     },
-    architecture: ["Single Page Applications", "Microservices", "Progressive Web Applications"],
+    architecture: ["Single Page Applications", "Progressive Web Applications"],
     currentFocus: ["React.js", "Next.js", "Frontend Performance Optimization"],
     additionalFocus: "MERN stack development",
     funFact: "There are two ways to write error-free programs; only the third one works."
